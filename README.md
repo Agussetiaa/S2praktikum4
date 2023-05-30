@@ -52,4 +52,4 @@
 <img width="619" alt="f" src="https://github.com/Agussetiaa/S2praktikum4/assets/115542822/b6edd601-0974-4bdf-97db-14a414b71d36">
 
 KESIMPULAN :
-#### penggunaan query filter sangat penting dalam mengoptimalkan pencarian data dan memperoleh hasil yang lebih akurat dan relevan.
+Psenggunaan query filter sangat penting dalam mengoptimalkan pencarian data dan memperoleh hasil yang lebih akurat dan relevan.
