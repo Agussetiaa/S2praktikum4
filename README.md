@@ -48,7 +48,7 @@
 #### 5, Tampilkan jumalh hewan berdasarkan spesies ( cat dan dog saja) dan jenis kelamin
 <img width="520" alt="e" src="https://github.com/Agussetiaa/S2praktikum4/assets/115542822/930989d7-a40b-45c5-a528-018b63ebacba">
 
-#### 6. Tamoilkan jumlah hewan berdasarkan jenis kelamin yang di ketahui saja
+#### 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang di ketahui saja
 <img width="619" alt="f" src="https://github.com/Agussetiaa/S2praktikum4/assets/115542822/b6edd601-0974-4bdf-97db-14a414b71d36">
 
 
